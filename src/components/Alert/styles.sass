@@ -1,0 +1,14 @@
+@import "~blaze/scss/mixins/settings.animations"
+@import "~blaze/scss/generic.global"
+@import "~blaze/scss/components.alerts"
+@import "~blaze/scss/animations.alerts"
+
+@keyframes alert-fadeout
+	from
+		opacity: 1
+	to
+		opacity: 0
+
+.fade-leave
+	animation-name: alert-fadeout
+	opacity: 0

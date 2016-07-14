@@ -1,0 +1,6 @@
+{
+  "name": "base",
+  "description": "This is the base component for our VueJS-BlazeCss-UI",
+  "author": "Boudy de Geer <boudydegeer@mosaiqo.com>",
+  "main": "Component.vue"
+}

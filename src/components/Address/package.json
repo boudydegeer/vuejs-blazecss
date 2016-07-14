@@ -1,0 +1,6 @@
+{
+  "name": "address",
+  "description": "Address component for VueJS-BlazeCSS-UI",
+  "author": "Boudy de Geer <boudydegeer@mosaiqo.com>",
+  "main": "Component.vue"
+}

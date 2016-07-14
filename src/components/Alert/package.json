@@ -1,0 +1,6 @@
+{
+  "name": "alert",
+  "description": "Alert component for VueJS-BlazeCSS-UI",
+  "author": "Boudy de Geer <boudydegeer@mosaiqo.com>",
+  "main": "Component.vue"
+}

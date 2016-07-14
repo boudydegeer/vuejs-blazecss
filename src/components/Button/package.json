@@ -1,0 +1,6 @@
+{
+  "name": "bbutton",
+  "description": "Button component for VueJS-BlazeCSS-UI",
+  "author": "Boudy de Geer <boudydegeer@mosaiqo.com>",
+  "main": "Component.vue"
+}

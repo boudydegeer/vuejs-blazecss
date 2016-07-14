@@ -1,0 +1,6 @@
+<div class="c-alerts" >
+	<div class="c-alerts__alert" :class="modifier" transition="fade" v-show="show" >
+		<b-button class="c-button--close" v-if="withButton" @click="hide">×</b-button>
+		<slot></slot>
+	</div>
+</div>
